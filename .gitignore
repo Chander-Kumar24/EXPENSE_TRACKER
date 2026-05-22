@@ -1,0 +1,37 @@
+# Local configuration
+local.properties
+
+# IDE files
+.idea/
+*.iml
+*.iws
+*.ipr
+.kotlin/
+
+# Build artifacts
+/build/
+captures/
+.gradle/
+.externalNativeBuild/
+.cxx/
+
+# Android Studio generated files
+*.apk
+*.aab
+*.ap_
+*.dex
+*.class
+
+# Keystore files (if you don’t want them committed)
+*.jks
+*.keystore
+
+# Google services config (manage securely outside VCS if possible)
+google-services.json
+
+# Logs
+*.log
+
+# OS/system cache
+.DS_Store
+Thumbs.db
